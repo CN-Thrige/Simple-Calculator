@@ -1,4 +1,6 @@
-# Simple Python calculator 
+# The collection of Python calculators
+
+### Simple Python calculator 
 This is a super simple Python calculator,  based on starting out with Python 5th ed.
 
 Go to the "lommeregner" folder and go to "lommeregnerv2.py", which is the current version, which adds more clearity to the calculations. 
